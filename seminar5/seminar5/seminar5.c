@@ -104,7 +104,7 @@ int main() {
     else
         printf("\nNEGATIV\n");
 
-    // Free allocated memory
+    
     stergere(&lista);
 
     return 0;
