@@ -1,0 +1,5 @@
+﻿  seminar10.c
+T:\Seminar10\Seminar10\seminar10.c(28,40): warning C4013: 'strlen' undefined; assuming extern returning int
+T:\Seminar10\Seminar10\seminar10.c(29,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+T:\Seminar10\Seminar10\seminar10.c(91): warning C4715: 'calculGradechilibru': not all control paths return a value
+  Seminar10.vcxproj -> T:\Seminar10\x64\Debug\Seminar10.exe
