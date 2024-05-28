@@ -1,0 +1,5 @@
+﻿  seminar12.cpp
+T:\seminar12\seminar12\seminar12.cpp(108,24): warning C4091: 'typedef ': ignored on left of 'NodCoada' when no variable is declared
+T:\seminar12\seminar12\seminar12.cpp(200,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+T:\seminar12\seminar12\seminar12.cpp(146): warning C4715: 'extragereCoada': not all control paths return a value
+  seminar12.vcxproj -> T:\seminar12\x64\Debug\seminar12.exe
